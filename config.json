@@ -1,0 +1,9 @@
+{
+    "baseUri" : "https://int.difhub.com/",
+    "login" : "developer.apdax@mail.ru",
+    "password" : "Qwerty+123",
+    "waitTime" : 60000,
+    "space1" : "      ",
+    "space2" : "        ",
+    "space3" : "          "
+}
